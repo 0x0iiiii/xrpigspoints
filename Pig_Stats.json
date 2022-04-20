@@ -1,697 +1,558 @@
 [
     [
-        "Ranking",
         "NFTs",
         "Wallet"
     ],
     {
         "NFTs": 9,
-        "Ranking": 1,
         "Wallet": "rPcRTsSmh2MHC8CGyLWkTY88oJmw1jkurR"
     },
     {
         "NFTs": 5,
-        "Ranking": 2,
         "Wallet": "r3rUreR7P3TTj2nRHr5aTvvtoqiFZSxeDR"
     },
     {
         "NFTs": 5,
-        "Ranking": 3,
         "Wallet": "rKu5YATxNaE35MPeUp2z8JEf9ghTiePQL1"
     },
     {
         "NFTs": 4,
-        "Ranking": 4,
         "Wallet": "rB3uawViyXApV9Dvy7BkVFmRjAXWAvnVFa"
     },
     {
         "NFTs": 7,
-        "Ranking": 5,
         "Wallet": "rsT68uStjaY1USmPoD2K6WNYWFtTE2AXFG"
     },
     {
         "NFTs": 3,
-        "Ranking": 6,
         "Wallet": "rMmEbaEbhxmf9gbT7EvWUhFamhcjWQdVGi"
     },
     {
         "NFTs": 3,
-        "Ranking": 7,
         "Wallet": "rEmzZYR442kSm5UG9NgPfvyS33aRqFtY5E"
     },
     {
         "NFTs": 7,
-        "Ranking": 8,
         "Wallet": "rLWEWifBM9Le8EFyP77zAiqG18jBqYFAuQ"
     },
     {
         "NFTs": 7,
-        "Ranking": 9,
         "Wallet": "r3FiJ2Zsge78ACi5iXM1nRuCTqrzgq3ndX"
     },
     {
         "NFTs": 4,
-        "Ranking": 10,
         "Wallet": "rwdo1JwkbvQ8d3KG3Abmm6kE9CVL72E5rJ"
     },
     {
         "NFTs": 6,
-        "Ranking": 11,
         "Wallet": "rDSjbSN1sHKxuWJ4NgNNubpWxztdUbLrTN"
     },
     {
         "NFTs": 2,
-        "Ranking": 12,
         "Wallet": "r9ErAzNg5ayk3xYgaizKc3Vf77mpoRzXmx"
     },
     {
         "NFTs": 3,
-        "Ranking": 13,
         "Wallet": "rwxk4fxRkFTm5KJq4eDeohoUrVyPXvj7Ja"
     },
     {
         "NFTs": 3,
-        "Ranking": 14,
         "Wallet": "rDu45GB33442wnQAQCaNHHBr2zZSJ8gsi4"
     },
     {
         "NFTs": 4,
-        "Ranking": 15,
         "Wallet": "rJx3GKom5Bs2PUkdg9LvtmkTA6fNzhQUu4"
     },
     {
         "NFTs": 2,
-        "Ranking": 16,
         "Wallet": "rK3jMvyF37UGL12DqfiYJZLccNHZa6uMwT"
     },
     {
         "NFTs": 3,
-        "Ranking": 17,
         "Wallet": "rG8eTmpDjePAgzGhK4JF8XgQSC1de83GtP"
     },
     {
         "NFTs": 2,
-        "Ranking": 18,
         "Wallet": "rHwCoBDJf8x3wgBqbZFwz7EPZxYP2Ny3Tz"
     },
     {
         "NFTs": 2,
-        "Ranking": 19,
         "Wallet": "rKnFJm1dqoy24PDgdh2VxBWytkeM9EkCFL"
     },
     {
         "NFTs": 2,
-        "Ranking": 20,
         "Wallet": "rQf3NKHZq3aGeuMLvBz7c4s8iardCS8GrS"
     },
     {
         "NFTs": 4,
-        "Ranking": 21,
         "Wallet": "rJQyd58NFAr8WaXR25HL1oQ9jZspUS6cpF"
     },
     {
         "NFTs": 5,
-        "Ranking": 22,
         "Wallet": "rLE6fZbHPDrrbgsy7joWBBpQMSt5LPzymZ"
     },
     {
         "NFTs": 2,
-        "Ranking": 23,
         "Wallet": "rfaEdwDjP9ypDb9sAx8rvBipautWbeoiQ5"
     },
     {
         "NFTs": 3,
-        "Ranking": 24,
         "Wallet": "rwsYmxbHZwcnZXucXp6dHUPJcFYkSqLZM1"
     },
     {
         "NFTs": 2,
-        "Ranking": 25,
         "Wallet": "rGGShNBB3JHzXrBZfGraDuzkCzB2T4kADN"
     },
     {
         "NFTs": 3,
-        "Ranking": 26,
         "Wallet": "r3Lu5ipXmWfR51usJXyyACVpijuSUUjK7f"
     },
     {
         "NFTs": 2,
-        "Ranking": 27,
         "Wallet": "rJoovKrB1RpFFG4nbZJEPEH3szYU1kShXR"
     },
     {
         "NFTs": 1,
-        "Ranking": 28,
         "Wallet": "rhtGwEygBQufCTvwiJkogrtcnCSBLQ45hz"
     },
     {
         "NFTs": 2,
-        "Ranking": 29,
         "Wallet": "rpEs2Go2ZkNPAC6p9E3ZT7t6zKaoXkXPzE"
     },
     {
         "NFTs": 2,
-        "Ranking": 30,
         "Wallet": "rEKNi416cLzScEaBizUnJkxP7HaNr6Sx86"
     },
     {
         "NFTs": 4,
-        "Ranking": 31,
         "Wallet": "rUE6NUEiSYHnw9BRud7EvExKfSKmCUk5e4"
     },
     {
         "NFTs": 3,
-        "Ranking": 32,
         "Wallet": "r4sJsnEwJWm8Mxv7MXzADYUuS66dTtyxqY"
     },
     {
         "NFTs": 2,
-        "Ranking": 33,
         "Wallet": "rPa5w2EkNn6paGUNwKj8noq3CsUYSyc5mM"
     },
     {
         "NFTs": 3,
-        "Ranking": 34,
         "Wallet": "rUgfSiXDCrFP28UgvxRc5MYxpssykWVbir"
     },
     {
         "NFTs": 2,
-        "Ranking": 35,
         "Wallet": "rngmPJ8KfHesnDGBswQ8BXFLyBirkePA5n"
     },
     {
         "NFTs": 2,
-        "Ranking": 36,
         "Wallet": "r9ZaARtf255wKGXtBDzwYtLWSfxF9aFAnq"
     },
     {
         "NFTs": 1,
-        "Ranking": 37,
         "Wallet": "rM6c3XkboWbth4a572UpYj1KFyX1pqEBNY"
     },
     {
         "NFTs": 2,
-        "Ranking": 38,
         "Wallet": "rauVsdCKstQn2hdzPCuU3PMUgx5Y5ekNjG"
     },
     {
         "NFTs": 1,
-        "Ranking": 39,
         "Wallet": "rPbJWv1uukbtesV77KkJfpgPsRipmVtqWb"
     },
     {
         "NFTs": 2,
-        "Ranking": 40,
         "Wallet": "rnBNRLbNfsZUzfzVYEftBuXdb8hkQNhTZF"
     },
     {
         "NFTs": 1,
-        "Ranking": 41,
         "Wallet": "rHgLH2emEtR17vSkcF4BdZxJPUuNTHENyG"
     },
     {
         "NFTs": 2,
-        "Ranking": 42,
         "Wallet": "r4dP22V8duGu4oSR8szZA2kaitfd5N2qiR"
     },
     {
         "NFTs": 1,
-        "Ranking": 43,
         "Wallet": "rarssKjPVMhWkyoAmXt3VwCQ5wCsGHNHfZ"
     },
     {
         "NFTs": 1,
-        "Ranking": 44,
         "Wallet": "r3x2zroXg2tM4gHQjELwbKnizmJsfUr1tx"
     },
     {
         "NFTs": 2,
-        "Ranking": 45,
         "Wallet": "rH8hJvURGRGYMt9DRxXdv59eMyjjeNXCd2"
     },
     {
         "NFTs": 3,
-        "Ranking": 46,
         "Wallet": "rh44tNxtzP1egfbTDxSX1FnuEa4mFMfoiy"
     },
     {
         "NFTs": 3,
-        "Ranking": 47,
         "Wallet": "rNKonpWutLco69Q1op9che7jvmhLWXxtbm"
     },
     {
         "NFTs": 2,
-        "Ranking": 48,
         "Wallet": "rUX62EpVZHfXTzpqdrkwCgdhbv5q8SVskj"
     },
     {
         "NFTs": 2,
-        "Ranking": 49,
         "Wallet": "rDCT8ehC3mGCiwfgtRNLKYzvoJEPMMTDRP"
     },
     {
         "NFTs": 1,
-        "Ranking": 50,
         "Wallet": "rwBFx58XRkQeSDzqtVqsVPuDhSo4NTGA46"
     },
     {
         "NFTs": 1,
-        "Ranking": 51,
         "Wallet": "rKgyxB4x3Gg1Fr2mvJg6ZQSWHxF5PuqZYF"
     },
     {
         "NFTs": 2,
-        "Ranking": 52,
         "Wallet": "rw3qqff1azeZfaaBH9Me6s8VKWzDyaLQFR"
     },
     {
         "NFTs": 1,
-        "Ranking": 53,
         "Wallet": "rEM95txEeWJ97bCR9B33et83JbcJXUcMEX"
     },
     {
         "NFTs": 1,
-        "Ranking": 54,
         "Wallet": "rnx1nn58k22hi8yaTkmRgWgRCnJPE5JCKf"
     },
     {
         "NFTs": 1,
-        "Ranking": 55,
         "Wallet": "rNvdzyYWes4xP6pZtWjLLZumcjUcsaLuYf"
     },
     {
         "NFTs": 1,
-        "Ranking": 56,
         "Wallet": "rh2QJQCytcPrNRAHpNRnSwVRMxPo9toEEg"
     },
     {
         "NFTs": 1,
-        "Ranking": 57,
         "Wallet": "rDM52po9iR3fymX6nwbgg8Bce8YT2V6q3t"
     },
     {
         "NFTs": 1,
-        "Ranking": 58,
         "Wallet": "rGQLxUoMXTza7cRRXuhEAqN3vbotY5BmiX"
     },
     {
         "NFTs": 3,
-        "Ranking": 59,
         "Wallet": "rBAv9tSWLK2rAnUh1r3qEpBZsvQQviV82S"
     },
     {
         "NFTs": 2,
-        "Ranking": 60,
         "Wallet": "rKwpC5pGgnzR1SMpKcvx1Cfyt3XGRyEmMU"
     },
     {
         "NFTs": 1,
-        "Ranking": 61,
         "Wallet": "rUC4jaH3RLMgR8qmWBax6uUeR6orc8KBMh"
     },
     {
         "NFTs": 1,
-        "Ranking": 62,
         "Wallet": "rM5BeRLWuXMdomHZ69mHDetaNcXaWzYR7d"
     },
     {
         "NFTs": 1,
-        "Ranking": 63,
         "Wallet": "rpUJ6sTnnbU8CwhcT4xe9c3FZfrU1jcXxu"
     },
     {
         "NFTs": 1,
-        "Ranking": 64,
         "Wallet": "rGgoNs1yBz9wU4muUyHv7V1vMB8F7nBSD9"
     },
     {
         "NFTs": 1,
-        "Ranking": 65,
         "Wallet": "rKVKJeccXAcS9wWS2ohkHGH2tBsfUANSm1"
     },
     {
         "NFTs": 1,
-        "Ranking": 66,
         "Wallet": "rRcQLVsJYiN1jAp7DbPqcDq2cfjUg7fQP"
     },
     {
         "NFTs": 1,
-        "Ranking": 67,
         "Wallet": "rwhnNLfv3iwSrv7kg7DvYiVxp73izV95ME"
     },
     {
         "NFTs": 1,
-        "Ranking": 68,
         "Wallet": "rfLBSzwtTUrEgw1UxToDd4v4KBxzVNmU8f"
     },
     {
         "NFTs": 1,
-        "Ranking": 69,
         "Wallet": "r4y42dY58RP8s5Skzf7hiMzgofRVmoSwU8"
     },
     {
         "NFTs": 3,
-        "Ranking": 70,
         "Wallet": "rUmH1hGtF916MEGoTarEJ8Dfxf6rbrbkYm"
     },
     {
         "NFTs": 1,
-        "Ranking": 71,
         "Wallet": "rGuBnw8YkxEM2MgoEW75jGrhZYWMY8NnTX"
     },
     {
         "NFTs": 1,
-        "Ranking": 72,
         "Wallet": "rnYYRmKeiKssNcqfXpdtGeoyuG9GazxGKt"
     },
     {
         "NFTs": 1,
-        "Ranking": 73,
         "Wallet": "rMWPnd7dmDFmEdqbtbYW4iLf5KhtZDXx7j"
     },
     {
         "NFTs": 1,
-        "Ranking": 74,
         "Wallet": "r4mCPF2wGx5xPKXgD8jCqzAT1Yp8nS3ayA"
     },
     {
         "NFTs": 1,
-        "Ranking": 75,
         "Wallet": "rHUiJ77vy7pLrJF59xQTsr7dqua5SwNdZM"
     },
     {
         "NFTs": 1,
-        "Ranking": 76,
         "Wallet": "rLzAyUMaCiK7kdLJBPEbq5niS1VKzFH2wk"
     },
     {
         "NFTs": 3,
-        "Ranking": 77,
         "Wallet": "r9PFgBisSZYcvzhd7SKSYWgwQ1qdQL1uqa"
     },
     {
         "NFTs": 1,
-        "Ranking": 78,
         "Wallet": "rJy1BPQcMJH59YT5PTDRGMyoLPhqyHnhhL"
     },
     {
         "NFTs": 2,
-        "Ranking": 79,
         "Wallet": "rEueSUSvqqN1XWkVfyjbzLuFVaV4Sf4wwF"
     },
     {
         "NFTs": 2,
-        "Ranking": 80,
         "Wallet": "rJCLkcS1W5wDZXRtgh1aCcNPvrvA79davB"
     },
     {
         "NFTs": 1,
-        "Ranking": 81,
         "Wallet": "raQENh4RBUBQ6qw74twhSH1L2mkidrcNj7"
     },
     {
         "NFTs": 1,
-        "Ranking": 82,
         "Wallet": "rpCzEe3K4mW4hsFWnvLyaftFBpFXQvG8NQ"
     },
     {
         "NFTs": 2,
-        "Ranking": 83,
         "Wallet": "rP5iJTpyvjdTdisDfVUmZuTACWwSzEpfB6"
     },
     {
         "NFTs": 2,
-        "Ranking": 84,
         "Wallet": "rHSkFRfr7ZeUP9cURYrrfPQyBHbDon4KsV"
     },
     {
         "NFTs": 1,
-        "Ranking": 85,
         "Wallet": "rp51ALfXbn9FSt5HqVMxKNiyrX3cUvnuA6"
     },
     {
         "NFTs": 2,
-        "Ranking": 86,
         "Wallet": "rMRp2Yi8ycGRRWhnpBonJGuxPuRcSczNVn"
     },
     {
         "NFTs": 2,
-        "Ranking": 87,
         "Wallet": "r7ZMD9s3ayao8pyJcqEshFuLqYZo8ve47"
     },
     {
         "NFTs": 1,
-        "Ranking": 88,
         "Wallet": "ra1ev1s8NdULtTv5V7nTvHUGSJ4D46pqno"
     },
     {
         "NFTs": 1,
-        "Ranking": 89,
         "Wallet": "rHfb374oxTr7DPhkkgWHAqTVpqejSXWH6r"
     },
     {
         "NFTs": 2,
-        "Ranking": 90,
         "Wallet": "rhTr7YLtCL85P9To4tPdUuiDURpPMRgj5d"
     },
     {
         "NFTs": 1,
-        "Ranking": 91,
         "Wallet": "rLVkE4CGfkJmgXGyTk92ZLmoMgnjzVmNPw"
     },
     {
         "NFTs": 1,
-        "Ranking": 92,
         "Wallet": "rGEC7MCbvBDEfQSZrr9GosaRGWK5KZ5Qb6"
     },
     {
         "NFTs": 1,
-        "Ranking": 93,
         "Wallet": "r4gJc4uEgCiSR97mi8cMGtz5akNu9c76Px"
     },
     {
         "NFTs": 1,
-        "Ranking": 94,
         "Wallet": "rUH3s3rFcJ1xv6yqWyG9MG7A45cdtGgbL3"
     },
     {
         "NFTs": 1,
-        "Ranking": 95,
         "Wallet": "r3vUusmXQ6JsPFTg4zWdzpPBYY4qio8Eoo"
     },
     {
         "NFTs": 2,
-        "Ranking": 96,
         "Wallet": "rQpZixFzrBNvJR1Dthp6kiUgwngZJvNGsK"
     },
     {
         "NFTs": 1,
-        "Ranking": 97,
         "Wallet": "r952A7rV9ZCP9DMFQ5Cyjqe5KBPkAVW2Gb"
     },
     {
         "NFTs": 1,
-        "Ranking": 98,
         "Wallet": "rDbTx6Rcu1GwMiF8aXcL6iBLW83iNAnmgK"
     },
     {
         "NFTs": 1,
-        "Ranking": 99,
         "Wallet": "rNRY6iJw2Hmyt9X3GtAS7SGmbNuu39K4Sj"
     },
     {
         "NFTs": 1,
-        "Ranking": 100,
         "Wallet": "rNwZJmYW5FfwhZrZViiz2fjaHB1QNcZ9Mo"
     },
     {
         "NFTs": 1,
-        "Ranking": 101,
         "Wallet": "rD352ZfGQM1cktfXV7HFqFTbdeCsxRoh5v"
     },
     {
         "NFTs": 2,
-        "Ranking": 102,
         "Wallet": "rHYnW2376UYyb4J6fKA6JAHVnhKbNhdnuK"
     },
     {
         "NFTs": 1,
-        "Ranking": 103,
         "Wallet": "rhbzVvcLf1qzLr8du4QVRqtp7QiF92WtvA"
     },
     {
         "NFTs": 2,
-        "Ranking": 104,
         "Wallet": "rwpUZ5uF2LWhZdU4FxhoEdU8KTSYRwy7e8"
     },
     {
         "NFTs": 1,
-        "Ranking": 105,
         "Wallet": "rJmpW7UkWmzSFyNhBw7Zyko9DCELsUtx9d"
     },
     {
         "NFTs": 2,
-        "Ranking": 106,
         "Wallet": "raTsdenCjmTEx3HEkZQyJLGfGpiAmXnghC"
     },
     {
         "NFTs": 1,
-        "Ranking": 107,
         "Wallet": "rwgbGxqpeUk9YnzVsAQogG2LfMrJVU2Ued"
     },
     {
         "NFTs": 1,
-        "Ranking": 108,
         "Wallet": "rB15oh1FWxubDnoga8oto2MMrC7ZYVjLc"
     },
     {
         "NFTs": 1,
-        "Ranking": 109,
         "Wallet": "rDxrJmAStgQhMxEfRi9Gs5tuxfeHW93iWg"
     },
     {
         "NFTs": 2,
-        "Ranking": 110,
         "Wallet": "rJvRfuttZFLoUpg2R3NvJfvXb83oEZuZGU"
     },
     {
         "NFTs": 1,
-        "Ranking": 111,
         "Wallet": "rVHoUjNnwfNzZ6R9YzTaXoUR8zUHotWkz"
     },
     {
         "NFTs": 1,
-        "Ranking": 112,
         "Wallet": "rw9oTsarzci4kjoRTWCsVLDRsfwCQjVsaV"
     },
     {
         "NFTs": 1,
-        "Ranking": 113,
         "Wallet": "rML4TP3YCF6X5rUcMqnD23d86cSUDPTMyM"
     },
     {
         "NFTs": 1,
-        "Ranking": 114,
         "Wallet": "rns1VLYmc4bJnUQVPwMiXcivMECvjUqstT"
     },
     {
         "NFTs": 1,
-        "Ranking": 115,
         "Wallet": "rwhes188NfqDrJh4zFmKGh5BEV4okJzEuB"
     },
     {
         "NFTs": 4,
-        "Ranking": 116,
         "Wallet": "rwk6uWF3vhugWTiUSxMmaGAJD8bg2udNYn"
     },
     {
         "NFTs": 2,
-        "Ranking": 117,
         "Wallet": "rngm4AEuHXHSXJ5X152oDBWY7jyCrs6QjV"
     },
     {
         "NFTs": 1,
-        "Ranking": 118,
         "Wallet": "rEYLTBjE8SqmvyxRe7oGnriMF6cqGW6aXy"
     },
     {
         "NFTs": 1,
-        "Ranking": 119,
         "Wallet": "rM1k63FkqpqmqsvUbyu45TkNB8zYT3r4A9"
     },
     {
         "NFTs": 1,
-        "Ranking": 120,
         "Wallet": "rNndza43Ue3ksxRooN76AuRGg3fWicvDCC"
     },
     {
         "NFTs": 1,
-        "Ranking": 121,
         "Wallet": "rJQ6TU6UgeUX7xDWr17KZmxQ1kEEQQ7Tc3"
     },
     {
         "NFTs": 1,
-        "Ranking": 122,
         "Wallet": "rfwrYn1tPkyXePjKSWtku52PteerQSGxPo"
     },
     {
         "NFTs": 2,
-        "Ranking": 123,
         "Wallet": "rNcywXNnmLqznXmzFC9kF3xNZ5KZVpFDy7"
     },
     {
         "NFTs": 1,
-        "Ranking": 124,
         "Wallet": "rKN4mRq7AdQR5qX2RMiAZXd49eVzNB3bA8"
     },
     {
         "NFTs": 1,
-        "Ranking": 125,
         "Wallet": "rnV7NZqsLUzf3XdjwLrSCD5MBhZ2Ny8fPL"
     },
     {
         "NFTs": 1,
-        "Ranking": 126,
         "Wallet": "rGQ6BiqFfAByb9fVE9y1c6c5PBE1JcU3mL"
     },
     {
         "NFTs": 1,
-        "Ranking": 127,
         "Wallet": "rvpThcCZpN28twMvtpcNfXwtWEqFwBRPE"
     },
     {
         "NFTs": 2,
-        "Ranking": 128,
         "Wallet": "rfJ1CaA56McKQ4vjGTBExMP4WeDaKPRpFn"
     },
     {
         "NFTs": 1,
-        "Ranking": 129,
         "Wallet": "rMuPPJMwNW2VnxiN9iocxBNp5CsnzQznC2"
     },
     {
         "NFTs": 1,
-        "Ranking": 130,
         "Wallet": "rsTA9Q1yztLvW81RFABbwgLdbad8wb17r1"
     },
     {
         "NFTs": 1,
-        "Ranking": 131,
         "Wallet": "rrsUTFhE1Aw6VirYdaQy6PuQP97T3KriMa"
     },
     {
         "NFTs": 1,
-        "Ranking": 132,
         "Wallet": "rL4BDfjEnirHziArNWiZx45sFgAwDWQMUo"
     },
     {
         "NFTs": 1,
-        "Ranking": 133,
         "Wallet": "rpyFX2ttdBXQHMrXZeJdqtZ6ncjPWfqhRL"
     },
     {
         "NFTs": 1,
-        "Ranking": 134,
         "Wallet": "rnoTc1NA6R2PPR1D9gW6aaj7KKyv4JTmDh"
     },
     {
         "NFTs": 1,
-        "Ranking": 135,
         "Wallet": "rHftp3Fs8uceMEZNYo6dvm5zK48d8GxYoM"
     },
     {
         "NFTs": 1,
-        "Ranking": 136,
         "Wallet": "rnovGqrAAJ6VF7voKaUHk6EuyLLdJQNXA2"
     },
     {
         "NFTs": 1,
-        "Ranking": 137,
         "Wallet": "rw39V1tHWaobzDbktNjmyjqYJMnGwe2q39"
     },
     {
         "NFTs": 1,
-        "Ranking": 138,
         "Wallet": "rGRmENWp3hfgNoV8C9P7278bbZQQd5MTa7"
     }
 ]
