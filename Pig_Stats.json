@@ -384,10 +384,6 @@
         "Wallet": "r3vUusmXQ6JsPFTg4zWdzpPBYY4qio8Eoo"
     },
     {
-        "NFTs": 2,
-        "Wallet": "rQpZixFzrBNvJR1Dthp6kiUgwngZJvNGsK"
-    },
-    {
         "NFTs": 1,
         "Wallet": "r952A7rV9ZCP9DMFQ5Cyjqe5KBPkAVW2Gb"
     },
@@ -446,6 +442,10 @@
     {
         "NFTs": 1,
         "Wallet": "rVHoUjNnwfNzZ6R9YzTaXoUR8zUHotWkz"
+    },
+    {
+        "NFTs": 2,
+        "Wallet": "rQpZixFzrBNvJR1Dthp6kiUgwngZJvNGsK"
     },
     {
         "NFTs": 1,
